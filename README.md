@@ -1,4 +1,4 @@
-### console.log ('Hello there!') 
+### console.log ('Hi, I'm Agus!') 
 Currently learning and growing in this beautiful world of development, since the end of 2020 entering the career of being a great Full-Stack developer with JavaScript as a language and using technologies such as Ract.js with Redux and Node.js with Express.js. 
 
 - 🔭 I currently work at Henry Bootcamp as a Teaching Assistant
